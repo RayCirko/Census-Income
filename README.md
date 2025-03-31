@@ -11,8 +11,19 @@ Analyzes 2023 U.S. median household income by state using Census ACS data.
 3. Run all cells.
 
 ## Key Findings
-- Average income: $76,589
-- Top state: Washington, D.C. at $108,210
+- Average Median Income: $76,589.52
+- Top 5 States:
+  1. District of Columbia: $108,210
+  2. Massachusetts: $99,858
+  3. New Jersey: $99,781
+  4. Maryland: $98,678
+  5. New Hampshire: $96,838
+- Bottom 5 States:
+  1. Puerto Rico: $25,621
+  2. Mississippi: $54,203
+  3. West Virginia: $55,948
+  4. Louisiana: $58,229
+  5. Arkansas: $58,700
 
 ## Tools
 - Python, Pandas, Matplotlib
