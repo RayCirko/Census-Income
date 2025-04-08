@@ -1,8 +1,9 @@
 # Census Income Analysis
 
-Median household income by state using ACS 2023 data.
+This project analyzes 2023 ACS data to uncover median household income trends across U.S. states and territories.
 
 - **Author**: Raymond Cirko
+- **Skills**: Python, Pandas, Matplotlib, Data Cleaning, Visualization.
 - **Files**:
   - `Census Income Analysis.ipynb`: Notebook with code, outputs, and plots (all states + top 10).
   - `income_by_state_2023.csv`: Source data.
